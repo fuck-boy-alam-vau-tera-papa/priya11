@@ -1,0 +1,4 @@
+requests
+colorama
+mechanize
+bs4 futures
